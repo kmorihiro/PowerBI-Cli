@@ -11,7 +11,7 @@
   "license": "MIT",
   "preferGlobal": true,
   "bin": {
-    "powerbi": "./bin/cli"
+    "powerbi": "./bin/powerbi"
   },
   "dependencies": {
     "colors": "^1.1.2",
